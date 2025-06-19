@@ -1,2 +1,4 @@
 # Gera-o-Caldeira-Prova
-Rep das atividades da prova do Geração Caldeira
+Repo das atividades feita na prova do Geração Caldeira
+---------------------------------------------------------------------
+Email: Igortx30902@gmail.com
